@@ -1,0 +1,60 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://images.uzum.uz/cmj898bifoubkc6oa2e0/t_product_540_high.jpg#1707537051052",
+      "title": "Kapyushonli ayiqcha, stich, lotso, panda, pushti tulki",
+      "price": 149000,
+      "like": false
+    },
+    {
+      "id": 2,
+      "img": "https://images.uzum.uz/cmt3so9s99ouqbfsmjfg/t_product_540_high.jpg#1707537601829",
+      "title": "Yumshoq antistress oyinchoq sakkizoyoq-almashuvchi, ikki tomonli",
+      "price": 49000,
+      "like": false
+    },
+    {
+      "id": 3,
+      "img": "https://images.uzum.uz/cls49vrk9fq46cfd5vbg/t_product_540_high.jpg#1707537601829",
+      "title": "G'oz yumshoq o'yinchoq yostig'i, bolalar uchun antistress o'yinchoq",
+      "price": 149000,
+      "like": false
+    },
+    {
+      "id": 4,
+      "img": "https://images.uzum.uz/cmiik9ps99ouqbfqorag/t_product_540_high.jpg#1707537601829",
+      "title": "Yumshoq antistress oyinchoq sakkizoyoq-almashuvchi, ikki tomonli",
+      "price": 39000,
+      "like": false
+    },
+    {
+      "id": 5,
+      "img": "https://images.uzum.uz/cm5gd4bifoubkc6ma0r0/t_product_540_high.jpg#1707537601829",
+      "title": "Yumshoq o'yinchoq Stitch va Lotsa kostyumidagi paxmoq ayiq, antistress o'yinchoq",
+      "price": 150000,
+      "like": false
+    },
+    {
+      "id": 6,
+      "img": "https://images.uzum.uz/cmddp9rifoubkc6na0m0/t_product_540_high.jpg#1707537601829",
+      "title": "G'oz yumshoq o'yinchoq yostig'i, bolalar uchun antistress o'yinchoq",
+      "price": 68000,
+      "like": false
+    },
+    {
+      "id": 7,
+      "img": "https://images.uzum.uz/clpe7llenntcj8aaq2lg/t_product_540_high.jpg#1707537601829",
+      "title": "Yumshoq o'yinchoq o'rdakcha Lalafanfan, kiyim va ko'zoynakda",
+      "price": 129000,
+      "like": false
+    },
+    {
+      "id": 8,
+      "img": "https://images.uzum.uz/cjfnsqbk9fqckpti8seg/t_product_540_high.jpg#1707537601829",
+      "title": "Yumshoq o'yinchoq yostiq G'oz-quchoqlash, antistress quchoqlash uchun o'yinchoq",
+      "price": 54000,
+      "like": false
+    }
+  ]
+}
